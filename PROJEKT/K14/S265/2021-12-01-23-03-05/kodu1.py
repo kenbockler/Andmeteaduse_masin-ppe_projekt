@@ -1,1 +1,0 @@
-print('moodle ei lase tyhja faili yles laadida, ega yhtegi ylesannet kontrollida enne kui eelmised on tehtud')

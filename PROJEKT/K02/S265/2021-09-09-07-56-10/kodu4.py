@@ -1,7 +1,0 @@
-one = open(input('L2htefaili nimi: '), 'r', encoding='UTF-8')
-x = file.read()
-x = x.replace('Hello', 'Tere')
-one.close()
-two = open(input('Sihtfaili nimi: '), 'w', encoding='UTF-8')
-f.write(x)
-two.close()

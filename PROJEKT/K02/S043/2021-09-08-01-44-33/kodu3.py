@@ -1,5 +1,0 @@
-m=input("Sisesta oma eesnimi: ")
-n=input("Sisesta oma perekonnanimi: ")
-k=m.lower()
-l=n.lower()
-print(k+"."+l)

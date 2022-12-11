@@ -1,8 +1,0 @@
-file1 = open(input("Lähtefaili nimi: "), "r")
-file2 = open(input("Sihtfaili nimi: "), "w")
-file1sisu = file1.read()
-vahetatud = file1sisu.count("Hello")
-x = file1sisu.replace("Hello", "Tere")
-file2.write(x)
-print("Tehti " + str(vahetatud) + " asendamist.")
-file2.close()

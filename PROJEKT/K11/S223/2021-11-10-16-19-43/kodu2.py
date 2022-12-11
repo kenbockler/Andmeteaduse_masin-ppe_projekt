@@ -1,1 +1,0 @@
-def transponeeriK(matrix): return [[matrix[x][y] for x in reversed(range(len(matrix)))] for y in reversed(range(len(matrix[0])))]
