@@ -1,0 +1,91 @@
+English below.
+
+*
+
+Kirjeldus (EST)
+
+Kaustas on 13 faili, iga fail sisaldab ühe kodutöö kõigi üliõpilaste
+kõiki esitusi. Failinimes olev arv tähistab kodutöö nädalat; 6., 12. ja
+16. nädalal kodutöid ei olnud. Failid on alla laaditud Moodle'i
+VPL-harjutuse vahendist.
+
+Iga faili sees on tudengid kodeeritud tähistega S001, S002 jne,
+kooskõlaliselt läbi nädalate. Näiteks 1. nädala üliõpilane S001 on
+seesama isik, kes 2. nädala üliõpilane S001.
+
+Ühe kodutöö ülesannete lahendusi võis esitada mitu korda. Moodle'is on
+kodutöödel automaattestid ja kui programmides esines vigu, siis võis
+lahendaja neid parandada ja programmid uuesti esitada. Iga üliõpilase
+all olevad kaustad sisaldavad selle üliõpilase kõiki esitusi. Kaustade
+nimed näitavad esituse kuupäeva ja kellaaega. Näiteks kaust
+2021-09-02-07-30-37 sisaldab programme, mis esitati 2. septembril 2021
+kell 07:30:37. Kaustad, mille nime lõpus on '.ceg', sisaldavad
+VPL-harjutuse vahendi tehnilist infot (testitulemused, hinded jne), neid
+kaustu võib ingoreerida; kõik programmid asuvad kasutades, mille nime
+lõpp pole '.ceg'.
+
+Iga esituse failid on standardnimedega: kodu1.py, kodu2.py jne, mis
+tähendavad vastavalt kodutöö 1. ülesannet, kodutöö 2. ülesannet jne. 8.
+kodutöös on failinime kodu2.py asemel film.py. Kui mõne üliõpilase
+esituses puudub fail, mis teistel on olemas, siis see üliõpilane vastava
+ülesande lahendusprogrammi ei esitanud.
+
+Sarnaste programmide klastrite leidmine võib tähendada seda, et leida
+iga kodutööülesande puhul sarnaseid programme esitanud üliõpilaste
+klastrid. Sama üliõpilase mitmest esitusest võib arvatavasti võtta
+viimase, sest eelmised esitused on viimase esitusega eeldatavasti väga
+sarnased.
+
+Kõrvalekallete leidmiseks võib võtta kas viimased esitused või kõik
+esitused; viimasel juhul on programmide valik suurem ja vastavalt võib
+olla suurem ka tõenäosus leida midagi eristuvat.
+
+Tüüpilised petmisviisid on muutujanimede muutmine, sisendi-väljundi
+tekstide muutmine ning kommentaaride lisamine või eemaldamine. Seda võib
+programmide sarnasuse hindamisel arvesse võtta. Programmi üldine loogika
+ja täitmiskäik jäävad tavaliselt samaks.
+
+*
+
+Description (ENG)
+
+There are 13 files, each file contains all submissions of all students
+for one week's homework. The number in the filename denotes the week of
+the homework; there were no homeworks in weeks 6, 12 and 16. The files
+were downloaded from Moodle VPL tool.
+
+Inside each file, the students are coded as S001, S002, etc.,
+consistently across the weeks. For example, student S001 in week 1 is
+the same student as student S001 in week 2.
+
+The students may have submitted their solutions to the same homework
+multiple times. In Moodle, the homeworks have autotesters and if there
+are errors in the programs, the students may correct them and resubmit
+the programs. Under each student, the folders contain all the
+submissions of that student. The name of the folder shows the date and
+time of the submission. For example, the folder 2021-09-02-07-30-37
+contains the programs that were submitted on September 2, 2021, at
+07:30:37. The folders ending with '.ceg' contain technical data added by
+the VPL tool (testing results, grades, etc.), and they can be ignored;
+all programs are in the folders without the '.ceg' suffix.
+
+The files in each submission have standardized names: kodu1.py,
+kodu2.py, etc., which mean Task 1 of the homework, Task 2 of the
+homework, etc., respectively. In homework 8, the filename is film.py
+instead of kodu2.py. If some student has no file that the other students
+have, then this student didn't submit the program for that task.
+
+Finding clusters of similar programs maybe means finding, for each
+homework task, the clusters of students who submitted similar programs.
+Out of multiple submissions by the same student, probably the last one
+can be taken because the previous submissions are supposedly very
+similar to the last one.
+
+To find the outliers, either the last submissions or all submissions can
+be taken; in the latter case, the set of programs is larger and the
+probability of finding something exceptional may be greater.
+
+Typical ways of cheating are changing variable names, changing
+input-output texts, and adding or removing comments. This can be taken
+into account when estimating the similarity of programs. The general
+logic and flow of the program usually remain the same.
