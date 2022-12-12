@@ -1,5 +1,0 @@
-eesnimi=input("Sisesta eesnimi: ")
-perenimi=input("Sisesta perekonnanimi: ")
-eesnimi=eesnimi.lower()
-perenimi=perenimi.lower()
-print(eesnimi+"."+perenimi)

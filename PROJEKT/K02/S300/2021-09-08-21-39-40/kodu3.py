@@ -1,5 +1,0 @@
-eesnimi = input("Sisesta eesnimi: ")
-perenimi = input("Sisesta perenimi: ")
-eesn_v = eesnimi.lower()
-peren_v = perenimi.lower()
-print(eesn_v,peren_v, sep=".")

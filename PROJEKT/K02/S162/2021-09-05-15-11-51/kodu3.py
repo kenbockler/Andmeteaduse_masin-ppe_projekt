@@ -1,8 +1,0 @@
-eesnimi=str(input("sisesta eesnimi: "))
-perenimi=str(input("sisesta perenimi: "))
-kasutajanimi=eesnimi.lower()+"."+perenimi.lower()
-kasutajanimi=kasutajanimi.replace("ä","a")
-kasutajanimi=kasutajanimi.replace("ö","o")
-kasutajanimi=kasutajanimi.replace("õ","o")
-kasutajanimi=kasutajanimi.replace("ü","u")
-print("teie kasutajanimi on "+kasutajanimi)

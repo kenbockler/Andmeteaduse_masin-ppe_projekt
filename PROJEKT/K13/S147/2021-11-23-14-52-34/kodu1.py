@@ -1,1 +1,0 @@
-def auto_hind(hind,aasta): return((auto_hind(hind*0.8,aasta-1)) if aasta > 0 else round(hind,2))

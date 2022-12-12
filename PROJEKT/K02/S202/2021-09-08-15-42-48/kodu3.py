@@ -1,5 +1,0 @@
-en = input("Sisestage eesnimi: ")
-pn = input("Sisestage perenimi: ")
-En = en.replace("ä", "a").replace("õ", "o").replace("ö", "o").replace("ü", "u")
-Pn = pn.replace("ä", "a").replace("õ", "o").replace("ö", "o").replace("ü", "u")
-print(En.lower() + "." + Pn.lower())
