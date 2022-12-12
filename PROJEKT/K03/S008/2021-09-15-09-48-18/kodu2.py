@@ -1,0 +1,17 @@
+from pykkar import *
+create_world("""
+""")
+step()
+step()
+step()
+step()
+step()
+step()
+step()
+step()
+step()
+step()
+step()
+step()
+right()
+print (is_wall())

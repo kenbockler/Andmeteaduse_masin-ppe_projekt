@@ -1,0 +1,15 @@
+a = int(input("Sisestage liini pikkus: "))
+b = int(input("Sisestage postide maksimaalkaugus: "))
+c = (float(a / b))
+print(input("Minimaalne postide arv: " + str(c)))
+a = int(input("Sisestage liini pikkus: "))
+b = int(input("Sisestage postide maksimaalkaugus: "))
+c = (float(a / b * 2))
+print(input("Postide arv: " + str(c)))
+a = int(input("Sisestage liini pikkus: "))
+b = int(input("Sisestage postide maksimaalkaugus: "))
+c = (float(a / b))
+if a <= b:
+    print("Ei ole võimalik teostada")
+elif a > b:
+    print(float(a /b))
